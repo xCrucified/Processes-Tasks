@@ -36,7 +36,6 @@ namespace WpfApp1
 Process Name          : {((Process)grid.SelectedItem).ProcessName}
 Machine Name          : {((Process)grid.SelectedItem).MachineName}
 Start Time            : {((Process)grid.SelectedItem).StartTime}
-Base Priority         : {((Process)grid.SelectedItem).BasePriority}
 Total Processor Time  : {((Process)grid.SelectedItem).TotalProcessorTime}
 
 Wanna delete it?
